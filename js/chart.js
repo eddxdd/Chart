@@ -7,10 +7,10 @@ let mainChart = new Chart(myChart, {
     datasets:[{
       label:'Population',
       data:[
-        388,615,
-        204,668,
-        218,270,
-        104,986
+        388.615,
+        204.668,
+        218.270,
+        104.986
       ]
     }]
   },
