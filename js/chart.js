@@ -8,9 +8,9 @@ let mainChart = new Chart(myChart, {
       label:'Population',
       data:[
         617594,
-        191045,
-        153060,
-        106519
+        391045,
+        203060,
+        256519
       ]
     }]
   },
