@@ -1,4 +1,4 @@
-# Stock
+# Chart
 
 * In progress
 
