@@ -1,5 +1,1 @@
-# Chart
-
-* In progress
-
-https://eddxdd.github.io/Chart/
+https://eddxdd.github.io/js-chart/
